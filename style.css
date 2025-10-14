@@ -1665,8 +1665,8 @@ body.day-theme .social-icons a:hover {
     }
 }
 
-/* Phones (up to 412px) */
-@media (max-width: 412px) {
+/* Phones (up to 435px) */
+@media (max-width: 435px) {
 
     .navbar {
         height: 50px;
@@ -1996,3 +1996,4 @@ body.day-theme .social-icons a:hover {
     }
 
 }
+
