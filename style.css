@@ -480,6 +480,7 @@ body.day-theme #about h1 {
     display: flex;
     position: relative;
     justify-self: center;
+    justify-content: center;
     width: 80%;
 }
 
@@ -2334,3 +2335,4 @@ body.day-theme .social-icons a:hover {
         letter-spacing: 0px;
     }
 }
+
